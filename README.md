@@ -12,11 +12,11 @@
 ## Feel free to fork!
 
 
-#TO-DO
+# TO-DO
 > Windows 3.1 support
-<br>
+
 > Linux port
-<br>
+
 > Add more apps
-<br>
+
 > Customized SEAL Gui
