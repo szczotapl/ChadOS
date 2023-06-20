@@ -10,3 +10,10 @@
 ## [FreeDOS](https://github.com/FDOS) based [Operating System](https://en.wikipedia.org/wiki/Operating_system) for your pc!
 
 ## Feel free to fork!
+
+
+#TO-DO
+> Windows 3.1 support
+> Linux port
+> Add more apps
+> Customized SEAL Gui
