@@ -7,7 +7,7 @@
 
 
 
-## [FreeDOS](https://github.com/FDOS) based [Operating System](https://en.wikipedia.org/wiki/Operating_system) for your pc!
+## [FreeDOS*](https://github.com/FDOS) based [Operating System](https://en.wikipedia.org/wiki/Operating_system) for your pc!
 
 ## Feel free to fork!
 
@@ -20,3 +20,5 @@
 > Add more apps
 
 > Customized SEAL Gui
+```
+* - Now independent OS
