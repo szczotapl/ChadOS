@@ -7,7 +7,7 @@
 
 
 
-## The [Cosmos Toolkit](https://gocosmos.com/) based [Operating System](https://en.wikipedia.org/wiki/Operating_system) for your PC!
+## The [Cosmos Toolkit](https://gocosmos.org/) based [Operating System](https://en.wikipedia.org/wiki/Operating_system) for your PC!
 
 ## Feel free to fork!
 
