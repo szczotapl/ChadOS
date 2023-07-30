@@ -19,3 +19,7 @@
 
 > Add more apps
 
+# Change-log
+ > Update `README.md`
+
+ > Change license to `Open-Source License "ChadOS"` (AI Generated -.-) See [License](LICENSE)
