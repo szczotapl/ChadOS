@@ -7,18 +7,16 @@
 
 
 
-## [FreeDOS*](https://github.com/FDOS) based [Operating System](https://en.wikipedia.org/wiki/Operating_system) for your pc!
+## The [Cosmos Toolkit](https://gocosmos.com/) based [Operating System](https://en.wikipedia.org/wiki/Operating_system) for your PC!
 
 ## Feel free to fork!
 
 
 # TO-DO
-> Windows 3.1 support
+> Support Linux App???
 
-> Linux port
+> Port toolkit for GCC
 
 > Add more apps
 
 > Customized SEAL Gui
-```
-* - Now independent OS
