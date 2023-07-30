@@ -19,4 +19,3 @@
 
 > Add more apps
 
-> Customized SEAL Gui
